@@ -1,1 +1,1 @@
-The purpose of this project is to enhance my skill set on my own time by analyzing data on types of computers and internet subscriptions per state to identify states with the highest potential for fiber-optic internet service expansion.
+This project is intended to enhance my skill set by analyzing data on types of computers and internet subscriptions per state to identify states with the highest potential for fiber-optic internet service expansion.
